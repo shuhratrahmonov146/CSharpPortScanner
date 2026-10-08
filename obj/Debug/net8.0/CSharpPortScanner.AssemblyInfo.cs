@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpPortScanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0eaa7d256b343a91286b533c17fd825494cd98a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpPortScanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpPortScanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

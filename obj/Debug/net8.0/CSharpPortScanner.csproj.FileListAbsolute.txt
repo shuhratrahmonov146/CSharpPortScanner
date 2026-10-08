@@ -12,3 +12,4 @@ C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\refint\CSharpPortS
 C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.pdb
 C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.genruntimeconfig.cache
 C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\ref\CSharpPortScanner.dll
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.sourcelink.json
