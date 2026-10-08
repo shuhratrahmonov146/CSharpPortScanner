@@ -1,0 +1,14 @@
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\bin\Debug\net8.0\CSharpPortScanner.exe
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\bin\Debug\net8.0\CSharpPortScanner.deps.json
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\bin\Debug\net8.0\CSharpPortScanner.runtimeconfig.json
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\bin\Debug\net8.0\CSharpPortScanner.dll
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\bin\Debug\net8.0\CSharpPortScanner.pdb
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.AssemblyInfoInputs.cache
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.AssemblyInfo.cs
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.dll
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\refint\CSharpPortScanner.dll
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.pdb
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\CSharpPortScanner.genruntimeconfig.cache
+C:\Users\Shuhrat\Downloads\CSharpPortScanner\obj\Debug\net8.0\ref\CSharpPortScanner.dll
